@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Name": "Focus Window When Attention Required",
+        "Description": "This script makes any window requesting user attention immediately activated",
+        "Icon": "preferences-system-windows",
+        
+        "Authors": [
+            {
+                "Email": "stepan.tikunov@niuitmo.ru",
+                "Name": "Stepan Tikunov"
+            }
+        ],
+        "Id": "focusonattentionrequest",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/stepan-tikunov/kwinscript-focus-when-attention-required"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
