@@ -12,7 +12,7 @@
         ],
         "Id": "focusonattentionrequest",
         "Version": "1.0",
-        "License": "GPLv3",
+        "License": "MIT",
         "Website": "https://github.com/stepan-tikunov/kwinscript-focus-when-attention-required"
     },
     "X-Plasma-API": "javascript",
